@@ -3,6 +3,10 @@
   🚀 CS Engineering Student • 🤖 AI/ML Builder • ⛓️ Blockchain Explorer
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arc-wonders.arc-wonders" alt="Profile Visitors" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -43,6 +47,4 @@ I’d love to collaborate on:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arc-wonders&show_icons=true&theme=tokyonight" alt="Arkin's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arc-wonders&theme=tokyonight" alt="GitHub Streak" />
 </p>
