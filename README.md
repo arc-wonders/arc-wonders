@@ -1,41 +1,43 @@
 <h1 align="center">Hey there 👋, I'm Arkin Kansra (@arc-wonders)</h1>
 <p align="center">
-  🚀 CS Engineering Student • 🤖 AI Enthusiast 
+  🚀 CS Engineering Student • 🤖 AI/ML Builder • ⛓️ Blockchain Explorer
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🎓 I'm currently pursuing Computer Science Engineering  
-- 🔍 I love building smart systems that **see, analyze, and act** — especially in **AI forensics** and **real-time monitoring**
-- 🛠️ Currently working on: `Forensica` – a multi-device forensics tool  
-- 🧩 Exploring: `YOLO`, `OpenCV`, `LSTM`, and `Threat Detection APIs`
+- 🎓 Pursuing **Computer Science Engineering**  
+- 🔍 Passionate about building systems that **see, analyze, and act in real time**  
+- 🛠️ Currently working on: **Blockchain-based traceability systems**  
+- 🧩 Exploring: `YOLO`, `OpenCV`, `LSTMs`, `Smart Contracts`, and `Decentralized Apps`
 
 ---
 
 ### 🔭 Projects & Interests
-- 🚦 **Traffic Monitoring Systems** using YOLO models for detection & speed analysis  
-- 🕵️‍♂️ **AI-Powered Forensics** – Smart threat detection across files, images, and videos  
-- 🧠 **Custom LSTM models** for sequence-based learning  
-- 🌐 Web Dev meets AI – Building full-stack tools with intelligence baked in
+- 🎙️ **DualCast** – An AI-powered **eSports commentary engine** for Valorant  
+- 🧘 **Nivedini** – AI system for **neurodegenerative dementia care** (TTS + context awareness)  
+- 🚆 **Niti Raahi** – Smart **route & transport optimization system**  
+- 🚦 **Traffic Monitoring Systems** – YOLO-based detection + speed estimation  
+- ⛓️ **Blockchain** – Working on permissioned ledgers, **traceability & provenance systems**  
+- 🌐 **Full-Stack AI Tools** – Bringing AI into end-to-end applications  
 
 ---
 
-### 💬 Let's Collaborate
-- 🤝 Open to teaming up on projects involving:  
-  `AI/ML`, `Cybersecurity`, `Computer Vision`, `Forensics`, or `Cool CS hacks`
+### 💬 Collaboration Interests
+I’d love to collaborate on:  
+`AI/ML`, `Blockchain`, `Cybersecurity`, `Computer Vision`, `Forensics`, `Full-Stack + AI`
 
 ---
 
-### 📫 Reach Me At
+### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/arkin-kansra-8271b7233/)  
-- 📧 Email: `arkinkansra@gmail.com`
-- 🧠 Always up for a good conversation about AI ethics, autonomy, and control!
+- 📧 Email: `arkinkansra@gmail.com`  
+- 🧠 Always open to deep discussions on **AI, blockchain, and future tech ethics**
 
 ---
 
-### ⚡ Fun Fact
-> I believe AI should make decisions when humans hesitate — and the future will trust it to do so ⚙️
+### ⚡ Fun Thought
+> *AI should make decisions when humans hesitate — and in time, we’ll trust it with even more.* ⚙️
 
 ---
 
